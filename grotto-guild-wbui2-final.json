@@ -19,8 +19,8 @@
         "imageurl": "https://i.imgur.com/JgSCUfJ.png",
         "content": [
           {
-            "title": "Welcome to Grotto Guild ARK",
-            "text": "Welcome to the Grotto Guild cross-platform ARK: Survival Ascended cluster!\n\nUse F1 at any time to reopen this guide. Our cluster has two linked maps: Ragnarok is the main spawn and base map, while Astraeos is our Greek-themed adventure map.\n\nBuild, tame, explore, trade, and make your mark with the guild. Please be respectful of other players, their builds, and shared community spaces.\n\nNeed help? Use the Discord link below to contact staff or report an issue."
+            "title": "<TextStyle.Black>Welcome to Grotto Guild ARK</>",
+            "text": "<TextStyle.Black>Welcome to the Grotto Guild cross-platform ARK: Survival Ascended cluster!\n\nUse F1 at any time to reopen this guide. Our cluster has two linked maps: Ragnarok is the main spawn and base map, while Astraeos is our Greek-themed adventure map.\n\nBuild, tame, explore, trade, and make your mark with the guild. Please be respectful of other players, their builds, and shared community spaces.\n\nNeed help? Use the Discord link below to contact staff or report an issue.</>"
           }
         ]
       },
@@ -30,12 +30,12 @@
         "imageurl": "https://i.imgur.com/JgSCUfJ.png",
         "content": [
           {
-            "title": "Ragnarok: Spawn & Home Base",
-            "text": "Ragnarok is the Grotto Guild cluster's primary spawn, settlement, and long-term base-building map. Start here, build your home, meet the community, and use it as your main hub for cluster travel.\n\nRagnarok-exclusive creature content:\n• S-Dino Variants\n• S-Dino Fantastic Tames\n• Paleo ARK EVO+ Wasteland\n• Paleo ARK EVO+ Depths\n• Paleo ARK EVO+ Herb\n• Paleo ARK EVO+ Pred\n\nShared highlights:\n• Shiny! Dinos Ascended\n• Naval Ascension sailing ships\n• Dino Depot and Visual Storage\n• Player trading, color tokens, and quality-of-life tools\n\nAstraeos-exclusive creatures may be transferred here where cluster transfer rules allow. Their source mods are installed passively on Ragnarok so transfers remain compatible."
+            "title": "<TextStyle.Black>Ragnarok: Spawn & Home Base</>",
+            "text": "<TextStyle.Black>Ragnarok is the Grotto Guild cluster's primary spawn, settlement, and long-term base-building map. Start here, build your home, meet the community, and use it as your main hub for cluster travel.\n\nRagnarok-exclusive creature content:\n• S-Dino Variants\n• S-Dino Fantastic Tames\n• Paleo ARK EVO+ Wasteland\n• Paleo ARK EVO+ Depths\n• Paleo ARK EVO+ Herb\n• Paleo ARK EVO+ Pred\n\nShared highlights:\n• Shiny! Dinos Ascended\n• Naval Ascension sailing ships\n• Dino Depot and Visual Storage\n• Player trading, color tokens, and quality-of-life tools\n\nAstraeos-exclusive creatures may be transferred here where cluster transfer rules allow. Their source mods are installed passively on Ragnarok so transfers remain compatible.</>"
           },
           {
-            "title": "Ragnarok Rules & Travel",
-            "text": "Ragnarok is designed to be the stable community hub. Keep paths, public areas, and important resource locations clear. Do not build over obelisks, terminals, key caves, or other players' claimed areas.\n\nBefore uploading a survivor, tame, or item for transfer, check your inventory and make sure you understand any server rules announced in Discord. Never transfer during a restart, update, or maintenance notice.\n\nIf an imported modded tame or item behaves unexpectedly, do not delete it. Take a screenshot and contact staff through Discord."
+            "title": "<TextStyle.Black>Ragnarok Rules & Travel</>",
+            "text": "<TextStyle.Black>Ragnarok is designed to be the stable community hub. Keep paths, public areas, and important resource locations clear. Do not build over obelisks, terminals, key caves, or other players' claimed areas.\n\nBefore uploading a survivor, tame, or item for transfer, check your inventory and make sure you understand any server rules announced in Discord. Never transfer during a restart, update, or maintenance notice.\n\nIf an imported modded tame or item behaves unexpectedly, do not delete it. Take a screenshot and contact staff through Discord.</>"
           }
         ]
       },
@@ -45,12 +45,12 @@
         "imageurl": "https://i.imgur.com/JgSCUfJ.png",
         "content": [
           {
-            "title": "Astraeos: Greek Adventure Map",
-            "text": "Astraeos is the Grotto Guild cluster's Greek-themed exploration and adventure map. Travel here for a distinct world, new creatures, ocean voyages, and a different progression experience from Ragnarok.\n\nAstraeos-exclusive active content:\n• Astraeos Map\n• Astraeos Mythological Creatures\n• Moro's Indomitable Duo\n• Moro's Gigantophis\n• Naval Ascension sailing ships\n\nShared features such as Shiny! Dinos, Dino Depot, Visual Storage, player trading, hairstyles, Dino Color Tokens, and server quality-of-life mods are available here as well.\n\nRagnarok's Paleo and S-Dino creature mods are installed passively on Astraeos. You may encounter them only through approved cluster transfers; they are not intended to spawn naturally on Astraeos."
+            "title": "<TextStyle.Black>Astraeos: Greek Adventure Map</>",
+            "text": "<TextStyle.Black>Astraeos is the Grotto Guild cluster's Greek-themed exploration and adventure map. Travel here for a distinct world, new creatures, ocean voyages, and a different progression experience from Ragnarok.\n\nAstraeos-exclusive active content:\n• Astraeos Map\n• Astraeos Mythological Creatures\n• Moro's Indomitable Duo\n• Moro's Gigantophis\n• Naval Ascension sailing ships\n\nShared features such as Shiny! Dinos, Dino Depot, Visual Storage, player trading, hairstyles, Dino Color Tokens, and server quality-of-life mods are available here as well.\n\nRagnarok's Paleo and S-Dino creature mods are installed passively on Astraeos. You may encounter them only through approved cluster transfers; they are not intended to spawn naturally on Astraeos.</>"
           },
           {
-            "title": "Astraeos Rules & Travel",
-            "text": "Astraeos is an adventure destination, but the same Grotto Guild community standards apply. Respect other players' builds, do not block important travel points, and keep shared areas usable.\n\nUse safe transfer habits: wait for confirmation that both servers are online, avoid transfers during maintenance, and keep screenshots or details of anything lost during travel.\n\nThe map's mythological and Moro creatures are intended to make Astraeos feel unique. Enjoy the adventure and bring your discoveries back to the cluster responsibly."
+            "title": "<TextStyle.Black>Astraeos Rules & Travel</>",
+            "text": "<TextStyle.Black>Astraeos is an adventure destination, but the same Grotto Guild community standards apply. Respect other players' builds, do not block important travel points, and keep shared areas usable.\n\nUse safe transfer habits: wait for confirmation that both servers are online, avoid transfers during maintenance, and keep screenshots or details of anything lost during travel.\n\nThe map's mythological and Moro creatures are intended to make Astraeos feel unique. Enjoy the adventure and bring your discoveries back to the cluster responsibly.</>"
           }
         ]
       },
@@ -60,12 +60,12 @@
         "imageurl": "https://i.imgur.com/JgSCUfJ.png",
         "content": [
           {
-            "title": "Cluster Features",
-            "text": "Both Grotto Guild maps share a core mod experience.\n\n• Shiny! Dinos Ascended adds special colorful dinos.\n• Dino Depot is our dino storage and deployment system.\n• Visual Storage provides resource-display storage.\n• Naval Ascension expands sailing and ship gameplay.\n• Awesome Spyglass helps identify creature information.\n• Simple Trade supports player-to-player trading.\n• Dino Color Tokens let you customize tame colors.\n• Breeding Stopper and Mouse Saver add practical quality-of-life features.\n\nUse these systems responsibly. Do not use a mod feature to bypass community rules, exploit a map, or interfere with another player's base."
+            "title": "<TextStyle.Black>Cluster Features</>",
+            "text": "<TextStyle.Black>Both Grotto Guild maps share a core mod experience.\n\n• Shiny! Dinos Ascended adds special colorful dinos.\n• Dino Depot is our dino storage and deployment system.\n• Visual Storage provides resource-display storage.\n• Naval Ascension expands sailing and ship gameplay.\n• Awesome Spyglass helps identify creature information.\n• Simple Trade supports player-to-player trading.\n• Dino Color Tokens let you customize tame colors.\n• Breeding Stopper and Mouse Saver add practical quality-of-life features.\n\nUse these systems responsibly. Do not use a mod feature to bypass community rules, exploit a map, or interfere with another player's base.</>"
           },
           {
-            "title": "Helpful Commands",
-            "text": "Open this Grotto Guild guide: F1\n\nIf you are an authorized administrator, the in-game admin manager can be opened with:\ncheat ShowMyAdminManager\n\nOnly staff may use admin commands. Players needing help with lost items, stuck characters, transfer issues, or suspected bugs should contact staff through Discord instead of attempting workarounds."
+            "title": "<TextStyle.Black>Helpful Commands</>",
+            "text": "<TextStyle.Black>Open this Grotto Guild guide: F1\n\nIf you are an authorized administrator, the in-game admin manager can be opened with:\ncheat ShowMyAdminManager\n\nOnly staff may use admin commands. Players needing help with lost items, stuck characters, transfer issues, or suspected bugs should contact staff through Discord instead of attempting workarounds.</>"
           }
         ]
       },
@@ -75,12 +75,12 @@
         "imageurl": "https://i.imgur.com/JgSCUfJ.png",
         "content": [
           {
-            "title": "Grotto Guild Rules",
-            "text": "1. Respect other players, staff, bases, tames, and shared spaces.\n2. No griefing, harassment, exploits, mesh methods, duping, or cheating.\n3. Do not block obelisks, terminals, artifact caves, major resource spawns, or community routes.\n4. Keep your bases and taming areas reasonably clean; remove abandoned structures and dinos when asked.\n5. Follow all staff directions during updates, restarts, maintenance, or event operations.\n6. Report problems honestly and promptly. Do not exploit a bug after discovering it.\n\nRules may be expanded or clarified in Discord."
+            "title": "<TextStyle.Black>Grotto Guild Rules</>",
+            "text": "<TextStyle.Black>1. Respect other players, staff, bases, tames, and shared spaces.\n2. No griefing, harassment, exploits, mesh methods, duping, or cheating.\n3. Do not block obelisks, terminals, artifact caves, major resource spawns, or community routes.\n4. Keep your bases and taming areas reasonably clean; remove abandoned structures and dinos when asked.\n5. Follow all staff directions during updates, restarts, maintenance, or event operations.\n6. Report problems honestly and promptly. Do not exploit a bug after discovering it.\n\nRules may be expanded or clarified in Discord.</>"
           },
           {
-            "title": "Need Help?",
-            "text": "For support, bug reports, lost-transfer reports, player issues, or questions about the cluster, use the Grotto Guild Discord.\n\nWhen reporting an issue, include:\n• Your in-game name\n• Which map you were on\n• Approximate time of the issue\n• What you were doing\n• Screenshots or clips if available\n\nThis helps staff investigate and resolve issues much faster."
+            "title": "<TextStyle.Black>Need Help?</>",
+            "text": "<TextStyle.Black>For support, bug reports, lost-transfer reports, player issues, or questions about the cluster, use the Grotto Guild Discord.\n\nWhen reporting an issue, include:\n• Your in-game name\n• Which map you were on\n• Approximate time of the issue\n• What you were doing\n• Screenshots or clips if available\n\nThis helps staff investigate and resolve issues much faster.</>"
           }
         ]
       }
