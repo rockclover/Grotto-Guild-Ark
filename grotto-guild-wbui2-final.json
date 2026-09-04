@@ -5,11 +5,11 @@
       "hideicon": false,
       "hideiconafter": 60,
       "iconurl": "https://i.imgur.com/JgSCUfJ.png",
-      "disableicontext": false,
+      "disableicontext": true,
       "iconposition": 3,
       "icontextcolor": 2,
       "openonstart": true,
-      "openonstartonlynewplayers": true,
+      "openonstartonlynewplayers": false,
       "updateinterval": 12
     },
     "tabs": [
