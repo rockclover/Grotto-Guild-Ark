@@ -4,7 +4,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/JgSCUfJ.png",
+      "iconurl": "https://i.imgur.com/v6NaRxj.png",
       "disableicontext": true,
       "iconposition": 3,
       "icontextcolor": 2,
@@ -27,7 +27,7 @@
       {
         "layout": 1,
         "buttontext": "Ragnarok",
-        "imageurl": "https://i.imgur.com/JgSCUfJ.png",
+        "imageurl": "https://i.imgur.com/v6NaRxj.png",
         "content": [
           {
             "title": "Ragnarok: Spawn & Home Base",
@@ -42,7 +42,7 @@
       {
         "layout": 1,
         "buttontext": "Astraeos",
-        "imageurl": "https://i.imgur.com/JgSCUfJ.png",
+        "imageurl": "https://i.imgur.com/v6NaRxj.png",
         "content": [
           {
             "title": "Astraeos: Greek Adventure Map",
@@ -57,7 +57,7 @@
       {
         "layout": 1,
         "buttontext": "Cluster Guide",
-        "imageurl": "https://i.imgur.com/JgSCUfJ.png",
+        "imageurl": "https://i.imgur.com/v6NaRxj.png",
         "content": [
           {
             "title": "Cluster Features",
@@ -72,7 +72,7 @@
       {
         "layout": 1,
         "buttontext": "Rules & Support",
-        "imageurl": "https://i.imgur.com/JgSCUfJ.png",
+        "imageurl": "https://i.imgur.com/v6NaRxj.png",
         "content": [
           {
             "title": "Grotto Guild Rules",
