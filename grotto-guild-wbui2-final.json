@@ -20,109 +20,34 @@
         "content": [
           {
             "title": "Welcome to Grotto Guild ARK",
-            "text": "Welcome to the Grotto Guild ARK: Survival Ascended crossplay PvE cluster! Our admins are active and willing to help any new players, so make yourself at home.
-
-We have four linked maps: Ragnarok, The Island, Scorched Earth, and Astraeos. Ragnarok is our server hub, and all maps have max wild level 300, Shiny Dinos, and S+ Dinos.
-
-Use F1 at any time to reopen this guide. F2 opens the shop, and F3 opens the vote tab.
-
-If you're new, don't forget to register your in-game account on our website and claim your free starter pack if you so choose.
-
-Thanks for joining us!
-— Clover and the Grotto Guild Team"
+            "text": "Welcome to the Grotto Guild ARK: Survival Ascended crossplay PvE cluster! Our admins are active and willing to help any new players, so make yourself at home.\n\nWe have four linked maps: Ragnarok, The Island, Scorched Earth, and Astraeos. Ragnarok is our server hub, and all maps have max wild level 300, Shiny Dinos, and S+ Dinos.\n\nUse F1 at any time to reopen this guide. F2 opens the shop, and F3 opens the vote tab.\n\nIf you're new, don't forget to register your in-game account on our website and claim your free starter pack if you so choose.\n\nThanks for joining us!\n— Clover and the Grotto Guild Team"
           },
           {
             "title": "Getting Started",
-            "text": "Register your in-game account at grottoguild.com and check out the website for server information and the token shop.
-
-Join our Discord to keep up with announcements, updates, events, and restart notices. If something isn't working or you have an idea, please let us know. Your feedback helps us improve.
-
-Need help? Make a ticket in the open-a-ticket channel on Discord. Please include your in-game name, the map you're on, and any screenshots that might help."
+            "text": "Register your in-game account at grottoguild.com and check out the website for server information and the token shop.\n\nJoin our Discord to keep up with announcements, updates, events, and restart notices. If something isn't working or you have an idea, please let us know. Your feedback helps us improve.\n\nNeed help? Make a ticket in the open-a-ticket channel on Discord. Please include your in-game name, the map you're on, and any screenshots that might help."
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "Ragnarok",
+        "buttontext": "Maps",
         "imageurl": "https://i.imgur.com/DuMTr4b.png",
         "content": [
           {
             "title": "Ragnarok: Our Server Hub",
-            "text": "Ragnarok is the hub of the Grotto Guild cluster. Start here, build your home, meet the community, and explore the rest of the cluster when you're ready.
-
-Ragnarok has:
-• Max wild level 300
-• Dragon Kingdom
-• Shiny Dinos
-• S+ Dinos
-• B+ Structures
-• Dino Mind Wipes
-
-Our admins are active and willing to help any new players. If you have questions or run into an issue, let us know through Discord."
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "The Island",
-        "imageurl": "https://i.imgur.com/DuMTr4b.png",
-        "content": [
+            "text": "Ragnarok is the hub of the Grotto Guild cluster. Start here, build your home, meet the community, and explore the rest of the cluster when you're ready.\n\nRagnarok has:\n• Max wild level 300\n• Dragon Kingdom\n• Shiny Dinos\n• S+ Dinos\n• B+ Structures\n• Dino Mind Wipes\n\nOur admins are active and willing to help any new players. If you have questions or run into an issue, let us know through Discord."
+          },
           {
             "title": "The Island",
-            "text": "The Island is part of our four-map PvE cluster. Bring your tribe or start fresh and make yourself at home!
-
-The Island has:
-• Max wild level 300
-• Boosted Shiny Dino spawns
-• S+ Dinos
-• B+ Structures
-• Dino Mind Wipes
-
-Don't forget to check out our community events and get your entries in."
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "Scorched Earth",
-        "imageurl": "https://i.imgur.com/DuMTr4b.png",
-        "content": [
+            "text": "The Island is part of our four-map PvE cluster. Bring your tribe or start fresh and make yourself at home!\n\nThe Island has:\n• Max wild level 300\n• Boosted Shiny Dino spawns\n• S+ Dinos\n• B+ Structures\n• Dino Mind Wipes\n\nDon't forget to check out our community events and get your entries in."
+          },
           {
             "title": "Scorched Earth",
-            "text": "Scorched Earth is part of the Grotto Guild cluster, with Runic Wyverns joining our shared creature mods.
-
-Scorched Earth has:
-• Max wild level 300
-• Runic Wyverns
-• Shiny Dinos
-• S+ Dinos
-• B+ Structures
-• Dino Mind Wipes
-
-If something isn't working or you need help, make a ticket in Discord so we can take a look."
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "Astraeos",
-        "imageurl": "https://i.imgur.com/DuMTr4b.png",
-        "content": [
+            "text": "Scorched Earth is part of the Grotto Guild cluster, with Runic Wyverns joining our shared creature mods.\n\nScorched Earth has:\n• Max wild level 300\n• Runic Wyverns\n• Shiny Dinos\n• S+ Dinos\n• B+ Structures\n• Dino Mind Wipes\n\nIf something isn't working or you need help, make a ticket in Discord so we can take a look."
+          },
           {
             "title": "Astraeos",
-            "text": "Astraeos is our Greek-themed adventure map. Come explore and check out the creatures available here!
-
-Astraeos has:
-• Max wild level 300
-• Moro's Indomitable Duo
-• Moro's Gigantophis
-• Arkology: Desolation
-• Shiny Dinos
-• S+ Dinos
-• B+ Structures
-• Dino Mind Wipes
-
-Astraeos likes to be the problem child of our server family. If you run into an issue, please let us know through Discord. Thanks for sticking with us while we work on keeping everything running."
+            "text": "Astraeos is our Greek-themed adventure map. Come explore and check out the creatures available here!\n\nAstraeos has:\n• Max wild level 300\n• Moro's Indomitable Duo\n• Moro's Gigantophis\n• Arkology: Desolation\n• Shiny Dinos\n• S+ Dinos\n• B+ Structures\n• Dino Mind Wipes\n\nAstraeos likes to be the problem child of our server family. If you run into an issue, please let us know through Discord. Thanks for sticking with us while we work on keeping everything running."
           }
         ]
       },
@@ -133,34 +58,11 @@ Astraeos likes to be the problem child of our server family. If you run into an 
         "content": [
           {
             "title": "Our Server Rates",
-            "text": "Our cluster rates are:
-
-• 5x Harvesting
-• 5x Taming
-• 2x XP
-• 25x Egg Hatching
-• 50x Baby Maturation
-• 15-minute imprint intervals
-• 10x Player Weight per level
-• 10x Tamed Dino Weight per level
-• 10x Stack Sizes
-• Max wild level 300 on all maps
-
-Please submit event creatures' stats before adding any levels when the event rules require it."
+            "text": "Our cluster rates are:\n\n• 5x Harvesting\n• 5x Taming\n• 2x XP\n• 25x Egg Hatching\n• 50x Baby Maturation\n• 15-minute imprint intervals\n• 10x Player Weight per level\n• 10x Tamed Dino Weight per level\n• 10x Stack Sizes\n• Max wild level 300 on all maps\n\nPlease submit event creatures' stats before adding any levels when the event rules require it."
           },
           {
             "title": "Shared Features",
-            "text": "All four maps have Shiny Dinos and S+ Dinos. The Island has boosted Shiny Dino spawns.
-
-We also have:
-• B+ Structures
-• Dino Mind Wipes
-• Flyer carry enabled in PvE
-• Flyer stamina recovery enabled
-• Cryo sickness turned off
-• Baby imprint cuddles can be completed by anyone
-
-Check Discord for mod updates and any changes to server settings. If you have feedback, please let us know."
+            "text": "All four maps have Shiny Dinos and S+ Dinos. The Island has boosted Shiny Dino spawns.\n\nWe also have:\n• B+ Structures\n• Dino Mind Wipes\n• Flyer carry enabled in PvE\n• Flyer stamina recovery enabled\n• Cryo sickness turned off\n• Baby imprint cuddles can be completed by anyone\n\nCheck Discord for mod updates and any changes to server settings. If you have feedback, please let us know."
           }
         ]
       },
@@ -171,32 +73,15 @@ Check Discord for mod updates and any changes to server settings. If you have fe
         "content": [
           {
             "title": "Starter Packs & Token Shop",
-            "text": "If you're new, don't forget to register your in-game account on the website and claim your free starter pack if you so choose.
-
-Our token shop is live! Use F2 to open the shop, or visit grottoguild.com.
-
-If you have an issue with registration, a purchase, or claiming something, make a ticket in Discord so we can help."
+            "text": "If you're new, don't forget to register your in-game account on the website and claim your free starter pack if you so choose.\n\nOur token shop is live! Use F2 to open the shop, or visit grottoguild.com.\n\nIf you have an issue with registration, a purchase, or claiming something, make a ticket in Discord so we can help."
           },
           {
             "title": "Referral Program",
-            "text": "We're offering 15% off token shop items per qualifying referral till the New Year.
-
-The discount is stackable up to 100% off after 7 qualifying referrals.
-
-Referred players must:
-• Be new to the server
-• Register their in-game account on the website
-• Reach level 30
-
-Please make a ticket in Discord for help with your referral. Bring a friend and join us!"
+            "text": "We're offering 15% off token shop items per qualifying referral till the New Year.\n\nThe discount is stackable up to 100% off after 7 qualifying referrals.\n\nReferred players must:\n• Be new to the server\n• Register their in-game account on the website\n• Reach level 30\n\nPlease make a ticket in Discord for help with your referral. Bring a friend and join us!"
           },
           {
             "title": "Vote for the Grotto Guild",
-            "text": "Enjoying your time on the servers? Help us grow by voting for the Grotto Guild!
-
-Use F3 to open the vote tab.
-
-Thanks for playing, voting, and helping us build the Grotto Guild community. We appreciate you all!"
+            "text": "Enjoying your time on the servers? Help us grow by voting for the Grotto Guild!\n\nUse F3 to open the vote tab.\n\nThanks for playing, voting, and helping us build the Grotto Guild community. We appreciate you all!"
           }
         ]
       },
@@ -207,15 +92,7 @@ Thanks for playing, voting, and helping us build the Grotto Guild community. We 
         "content": [
           {
             "title": "Community Events",
-            "text": "We have community events like Tame of the Week, so make sure to check out the events page in Discord and get involved!
-
-Each event post will include the requirements, prizes, and deadline. Please read the full post before entering.
-
-For Tame of the Week, post your results in the tame-of-the-week channel as required. Taming the creature without submitting an entry does not count.
-
-Check the current event post for the wild-level range, required screenshots, and whether bred or imprinted creatures are eligible.
-
-Best of luck to you all!"
+            "text": "We have community events like Tame of the Week, so make sure to check out the events page in Discord and get involved!\n\nEach event post will include the requirements, prizes, and deadline. Please read the full post before entering.\n\nFor Tame of the Week, post your results in the tame-of-the-week channel as required. Taming the creature without submitting an entry does not count.\n\nCheck the current event post for the wild-level range, required screenshots, and whether bred or imprinted creatures are eligible.\n\nBest of luck to you all!"
           }
         ]
       },
@@ -226,42 +103,15 @@ Best of luck to you all!"
         "content": [
           {
             "title": "Grotto Guild Rules",
-            "text": "The same community rules apply across all four maps.
-
-1. Respect other players, staff, bases, tames, and shared spaces.
-2. No griefing, harassment, exploits, mesh methods, duping, or cheating.
-3. Do not block obelisks, terminals, artifact caves, major resource spawns, or community routes.
-4. Keep your bases and taming areas reasonably clean. Remove abandoned structures and dinos when asked.
-5. Follow staff directions during updates, restarts, maintenance, and events.
-6. Report problems honestly. Do not keep using a bug after discovering it.
-
-Check Discord for the full rules and any updates."
+            "text": "The same community rules apply across all four maps.\n\n1. Respect other players, staff, bases, tames, and shared spaces.\n2. No griefing, harassment, exploits, mesh methods, duping, or cheating.\n3. Do not block obelisks, terminals, artifact caves, major resource spawns, or community routes.\n4. Keep your bases and taming areas reasonably clean. Remove abandoned structures and dinos when asked.\n5. Follow staff directions during updates, restarts, maintenance, and events.\n6. Report problems honestly. Do not keep using a bug after discovering it.\n\nCheck Discord for the full rules and any updates."
           },
           {
             "title": "Cluster Travel",
-            "text": "Before transferring, check Discord for any restart, update, or maintenance notices. Do not transfer while either server is restarting or being updated.
-
-Make sure both your current map and your destination are online before starting a transfer.
-
-If a transferred creature or item isn't working properly, please take screenshots and contact staff before deleting it.
-
-For lost-transfer reports, include your in-game name, both maps, the approximate time, and details of what was lost."
+            "text": "Before transferring, check Discord for any restart, update, or maintenance notices. Do not transfer while either server is restarting or being updated.\n\nMake sure both your current map and your destination are online before starting a transfer.\n\nIf a transferred creature or item isn't working properly, please take screenshots and contact staff before deleting it.\n\nFor lost-transfer reports, include your in-game name, both maps, the approximate time, and details of what was lost."
           },
           {
             "title": "Need Help?",
-            "text": "Our admins are active and willing to help. If something isn't working or you have a question, make a ticket in the open-a-ticket channel on Discord.
-
-Please include:
-• Your in-game name
-• Which map you were on
-• The approximate time of the issue
-• What happened and what you were doing
-• Screenshots or clips if available
-
-If you have an idea for the servers, please share it too. Your feedback helps us improve.
-
-Thanks!
-— Clover and the Grotto Guild Team"
+            "text": "Our admins are active and willing to help. If something isn't working or you have a question, make a ticket in the open-a-ticket channel on Discord.\n\nPlease include:\n• Your in-game name\n• Which map you were on\n• The approximate time of the issue\n• What happened and what you were doing\n• Screenshots or clips if available\n\nIf you have an idea for the servers, please share it too. Your feedback helps us improve.\n\nThanks!\n— Clover and the Grotto Guild Team"
           }
         ]
       }
@@ -282,4 +132,4 @@ Thanks!
     ],
     "version": 2
   }
-          }
+}
